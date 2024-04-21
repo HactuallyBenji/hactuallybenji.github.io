@@ -3,6 +3,7 @@ layout: post
 title: "Linear Regression"
 date: 2024-04-21 11:45:00 -0800
 categories: jekyll update
+excerpt: "A Linear Regression Post"
 ---
 
 Linear Regression: Linear regression is a statistical method that allows us to study relationships between two continuous (quantitative) variables:
