@@ -1,0 +1,8 @@
+title: Ben's Blog
+email: ben
+description: Description
+baseurl: https://hactuallybenji.github.io
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
