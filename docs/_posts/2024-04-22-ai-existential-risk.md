@@ -1,11 +1,11 @@
 ---
 title: Is AI an Existential Risk?
-date:   2024-04-21 11:09:55 -0800
+date:   2024-04-22 05:00:00 -0800
 exerpt: Inspired by a recent discussion https://www.youtube.com/watch?v=E14IsFbAbpI with Fei-Fei Li, and Geoffrey Hinton
 ---
 # Is AI an Existential Risk?
 
-In a recent discussion https://www.youtube.com/watch?v=E14IsFbAbpI two prominent voices Fei-Fei Li, and Geoffrey Hinton discussed the potential risks of artificial intelligence and provided contrasting perspectives that capture the breadth of the debate. Hinton, with a cautious approach, raised concerns about existential risks, while Li presented a seemingly more optimistic view. This divergence in opinions provides a useful framework for considering the profound implications of advanced AI technologies.
+In a [recent discussion](https://www.youtube.com/watch?v=E14IsFbAbpI) two prominent voices Fei-Fei Li, and Geoffrey Hinton discussed the potential risks of artificial intelligence and provided contrasting perspectives that capture the breadth of the debate. Hinton, with a cautious approach, raised concerns about existential risks, while Li presented a seemingly more optimistic view. This divergence in opinions provides a useful framework for considering the profound implications of advanced AI technologies.
 
 ## Understanding Existential Risk Through AI
 
