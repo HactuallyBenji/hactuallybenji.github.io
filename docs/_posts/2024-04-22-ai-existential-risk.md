@@ -2,6 +2,7 @@
 title: Is AI an Existential Risk?
 layout: post
 date:   2024-04-22 11:09:55 -0800
+exerpt: Inspired by a [recent discussion](https://www.youtube.com/watch?v=E14IsFbAbpI) with Fei-Fei Li, and Geoffrey Hinton  
 ---
 
 ### Is AI an Existential Risk?
