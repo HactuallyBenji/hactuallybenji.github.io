@@ -22,13 +22,11 @@ title: Ben's Blog
 email: hactuallybenji@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hactuallyben
 github_username:  hactuallybenji 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
